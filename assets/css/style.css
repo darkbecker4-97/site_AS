@@ -1,0 +1,100 @@
+#cabeça {
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 100pt;
+}
+
+#menu {
+    background-color: lightslategray;
+}
+
+#posts {
+    background-color: #fec208;
+}
+
+#promocoes {
+    background-color: #cf240a;
+    color: black;
+}
+
+#preço {
+    color: #cf240a;
+    ;
+}
+
+#imgApp {
+    max-width: 10em;
+    max-height: 10em;
+}
+
+#logo {
+    border-radius: 50%;
+}
+
+body {
+    background-color: white;
+    margin: 0;
+}
+
+footer {
+    background-color: #ccc;
+}
+
+h1 {
+    border-radius: 10%;
+}
+
+p {
+    color: black;
+}
+
+.p {
+    color: black;
+}
+
+.conquer {
+    background-image: url('/site_AS/assets/img/bg-1.jpg');
+    background-position: center bottom;
+    background-size: cover;
+    height: 70vh;
+}
+
+.conquer h1 {
+    text-shadow: 2px 2px 1px #000;
+}
+
+.services {
+    background-image: url('/site_AS/assets/img/bg-2.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+}
+
+.services h2 {
+    text-shadow: 2px 2px 1px #000;
+}
+
+.sobre {
+    background-image: url('/site_AS/assets/img/IMG_0712.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+}
+
+.sobre h2 {
+    text-shadow: 2px 2px 1px #000;
+}
+
+.form {
+    background-image: url('/site_AS/assets/img/bg-3.jpg');
+    background-position: center bottom;
+    background-size: cover;
+}
+
+.form h2 {
+    text-shadow: 2px 2px 1px #000;
+}
+
+form textarea {
+    resize: none;
+}
